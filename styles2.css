@@ -1,0 +1,131 @@
+body,html 
+
+
+{   height: 90vw;
+  
+  width: auto;}
+
+
+
+
+
+
+                              
+
+
+
+                              
+                                      
+                                                                          .wrapper{
+                                                                              position: absolute;
+                                                                              top: 47%;
+                                                                            
+                                                                              background-attachment: fixed;                              
+                                                                              left: 25vw;
+                                                                              transform: translate(-50%, -50%);
+                                                                            
+                                                                            }
+                                                                             a:hover{
+                                                                              width: 15vw;
+                                                                              height: -3vw;
+                                                                              border: 3px solid #420ffc;
+                                                                              background: transparent;
+                                                                              color: #420ffc;
+                                                                            }
+                                                                          
+                                                                            
+                                                                            
+                                                                            a{
+                                                                              display: block;
+                                                                              width: 30vw;
+                                                                            
+                                                                              line-height: 13vw;
+                                                                            
+                                                                              text-decoration: none;
+                                                                              background:  rgb(31, 52, 84);
+                                                                              text-align: center;
+                                                                              color: #fff;
+                                                                              text-transform: uppercase;
+                                                                              letter-spacing: 1px;
+                                                                              border: 3px solid #420ffc;
+                                                                              transition: all .35s;
+                                                                            }
+                                                                            
+                                                                            .icon{    color: #420ffc;
+                                                                              font-size: 1vw;
+                                                                              width: 10vw;
+                                                                              height: 6vw;
+                                                                              border: 3px solid #420ffc;
+                                                                              position:fixed;
+                                                                              background:  rgb(26, 20, 50);
+                                                                              background: transparent;
+                                                                              right: 16vw;
+                                                                              top: 7vw;
+                                                                              z-index: -1;
+                                                                              transition: all .35s;
+                                                                            }
+                                                                            
+                                                                          
+                                                                            
+                                                                          
+                                                                          
+                                                                          
+                                                                            
+                                                                          
+                                                                            
+                                                                          
+                                                                           
+                                                                          
+                                                                            .icon4  {font-size: 1vw;    color: #420ffc;
+                                                                              width: 10vw;
+                                                                              height: 6vw;
+                                                                              border: 3px solid #420ffc;
+                                                                              position: fixed;
+                                                                              background:  rgb(26, 20, 50);
+                                                                              background: transparent;
+                                                                              left:16vw ;
+                                                                              top:7vw;
+                                                                              z-index: -1;
+                                                                              transition: all .35s;
+                                                                           
+                                                                          }
+                                                                           
+                                                                           
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                            
+                                                                          
+                                                                          
+                                                                            
+                                                                          
+                                                                          
+                                                                          
+                                                                            .icon2{font-size: 1vw;    color: #420ffc;
+                                                                              width: 10vw;
+                                                                              height: 6vw;
+                                                                              border: 3px solid #420ffc;
+                                                                              position: fixed;
+                                                                          left: 16vw;
+                                                                              top: 0;
+                                                                              z-index: -1;
+                                                                              transition: all .35s; background:  rgb(26, 20, 50);
+                                                                              background: transparent;
+                                                                            }
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                            .icon3{font-size: 1vw;    color: #420ffc;
+                                                                              width: 10vw;
+                                                                              height: 6vw;
+                                                                              border: 3px solid #420ffc;
+                                                                              position: fixed;
+                                                                          right: 16vw;
+                                                                              top: 0;
+                                                                              z-index: -1;
+                                                                              transition: all .35s; background:  rgb(26, 20, 50);
+                                                                              background: transparent;
+                                                      }
